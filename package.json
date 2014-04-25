@@ -1,0 +1,14 @@
+{
+	"name": "zulu-server",
+	"description": "A Socket.IO and TCP integrated server",
+	"author": "Tiin57 <tiin57@gmail.com>",
+	"version": "0.0.1",
+	"dependencies": {
+		"socket.io": "*"
+	},
+	"engine": "node >= 0.10.20",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/tiin57/zulu.git"
+	}
+}
